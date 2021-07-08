@@ -1,6 +1,6 @@
 # MDA-Net
 
-This repository contains the original implementation of "**MDA-Net: Multiscale dual attention-based network for breast lesion segmentation using Ultrasound images**" in PyTorch ibrary.
+This repository contains the original implementation of "**MDA-Net: Multiscale dual attention-based network for breast lesion segmentation using Ultrasound images**" in PyTorch library.
 
 # Paper
 
