@@ -6,6 +6,10 @@ This repository contains the original implementation of "**MDA-Net: Multiscale d
 
 Under Review
 
+# Pretrained weights
+
+Google Drive: https://drive.google.com/file/d/1x73MYu1fYgEA0-Bu2leNbDtI-t_SKFJr
+
 # Libs
 
 - Python 3.7.9
