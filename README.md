@@ -25,13 +25,6 @@ Download from [**Google Drive**](https://drive.google.com/file/d/1x73MYu1fYgEA0-
 
 A demo can be found in [**Here**](https://github.com/ahmedeqbal/MDA-Net/blob/main/MDA-Net_implementation.ipynb)
 
-## Cite:
-
-If you use MDA-Net in your project, please cite the following paper:
-
-*Ahmed Iqbal, Muhammad Sharif, "MDA-Net: Multiscale dual attention-based network for breast lesion segmentation using ultrasound images",
-Journal of King Saud University - Computer and Information Sciences, 2021.*
-
 ## Requirements:
 
 - Python 3.7.9
@@ -42,3 +35,9 @@ Journal of King Saud University - Computer and Information Sciences, 2021.*
 - Pandas: 1.1.4
 - Matplotlib: 3.3.2
 
+## Cite:
+
+If you use MDA-Net in your project, please cite the following paper:
+
+*Ahmed Iqbal, Muhammad Sharif, "MDA-Net: Multiscale dual attention-based network for breast lesion segmentation using ultrasound images",
+Journal of King Saud University - Computer and Information Sciences, 2021.*
