@@ -38,6 +38,7 @@ A demo can be found in [**Here**](https://github.com/ahmedeqbal/MDA-Net/blob/mai
 ## Cite:
 
 If you use MDA-Net in your project, please cite the following paper:
-
-*Ahmed Iqbal, Muhammad Sharif, "MDA-Net: Multiscale dual attention-based network for breast lesion segmentation using ultrasound images",
-Journal of King Saud University - Computer and Information Sciences, 2021.*
+```
+Ahmed Iqbal, Muhammad Sharif, "MDA-Net: Multiscale dual attention-based network for breast lesion segmentation using ultrasound images",
+Journal of King Saud University - Computer and Information Sciences, 2021. https://doi.org/10.1016/j.jksuci.2021.10.002
+```
